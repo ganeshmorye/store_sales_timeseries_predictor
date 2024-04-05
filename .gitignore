@@ -1,0 +1,9 @@
+# In your .gitignore file
+data/input/ecu_adm_inec_20190724_shp/
+data/input/train.csv
+data/output
+code/final_sales_predictions.csv
+code/final_sales_predictions_family.csv
+code/final_sales_predictions_family2.csv
+code/backup.ipynb
+models/
